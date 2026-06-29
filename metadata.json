@@ -1,0 +1,6 @@
+{
+  "name": "دليل المحاضر الاحترافي",
+  "description": "منصة تفاعلية لعرض وتعديل وطباعة حقائب ورش العمل التفاعلية للشباب (أكثر من 100 شريحة مصممة باحترافية)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
